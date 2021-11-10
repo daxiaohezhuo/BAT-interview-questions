@@ -1,21 +1,3 @@
-<img align="center" src='./InterviewMap.png' />
-
-<h1 align="center">
-  Interview Map
-</h1>
-
-<h4 align="center">这是一份能让你更好准备下一次面试的图谱</h4>
-
-[English Version](./README-EN.md)
-
-## 阅读
-
-| 微信扫码关注公众号，订阅更多精彩内容                                                                 | 加笔者微信进群与大厂大佬讨论技术                                                                    |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220223702.jpeg" width="500px;" /> | <img src="https://yck-1254263422.cos.ap-shanghai.myqcloud.com/20191220224224.png" width="260px;" /> |
-
-[线上版本阅读更清晰](https://yuchengkai.cn/docs/zh/)
-
 ## 小册
 
 很荣幸在「掘金」平台发售了这个开源项目的进阶版面试小册「前端面试之道」。
